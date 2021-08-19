@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**tiandashu/tiandashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**tiandashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![tiandashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiandashu)](https://github.com/tiandashu/github-readme-stats)
-![tiandashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiandashu&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiandashu&repo=github-readme-stats)](https://github.com/tiandashu/github-readme-stats)
+
+[![tiandashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiandashu&show_icons=true&theme=radical)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiandashu&layout=compact)](https://github.com/tiandashu/github-readme-stats)
 
 
